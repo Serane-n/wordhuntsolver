@@ -44,7 +44,7 @@ This program is a solver for the GamePigeon Word Hunt game. It's designed for fu
 - If you encounter any invalid words or bugs, please create an issue in the repository with the relevant details.
 
 ## Note
-- This project was created out of curiosity and is not actively maintained. Dictionary updates may occur for invalid words.
+- This project was created out of curiosity and is not actively maintained. Dictionary updates may occur for invalid or valid words.
 - Ensure your Python environment is correctly set up and compatible with the code.
 
 ---
