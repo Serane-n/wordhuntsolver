@@ -48,5 +48,3 @@ This program is a solver for the GamePigeon Word Hunt game. It's designed for fu
 - Ensure your Python environment is correctly set up and compatible with the code.
 
 ---
-
-End of README.md
